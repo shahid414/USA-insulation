@@ -1,0 +1,14 @@
+# Robots.txt for Daewoo Express Information & Timetable Portal
+User-agent: *
+Allow: /
+
+# Disallow admin or sensitive internal query paths (if any)
+Disallow: /admin/
+Disallow: /api/
+Disallow: /cgi-bin/
+
+# Crawl-delay (Optional, helps server performance)
+# Crawl-delay: 1
+
+# Sitemap Location
+Sitemap: https://yourdomain.com/sitemap.xml

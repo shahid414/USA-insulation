@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- 1. Home Page (High Priority) -->
+  <url>
+    <loc>https://yourdomain.com/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 2. Cargo Tracking Tool -->
+  <url>
+    <loc>https://yourdomain.com/cargo-tracking</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 3. Bus Timings & Schedules -->
+  <url>
+    <loc>https://yourdomain.com/bus-timings</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 4. Ticket Price List 2026 -->
+  <url>
+    <loc>https://yourdomain.com/ticket-prices</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 5. Terminals & Helpline Directory -->
+  <url>
+    <loc>https://yourdomain.com/terminals-and-helpline</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 6. Lahore to Islamabad Route Page -->
+  <url>
+    <loc>https://yourdomain.com/routes/lahore-to-islamabad</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 7. Refund & Cancellation Policy -->
+  <url>
+    <loc>https://yourdomain.com/refund-policy</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- 8. Contact Us / Support -->
+  <url>
+    <loc>https://yourdomain.com/contact-us</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
